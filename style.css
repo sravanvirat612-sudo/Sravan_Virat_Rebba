@@ -1,0 +1,5 @@
+body { font-family: Arial; text-align: center; margin-top: 50px; }
+h1 { color: navy; }
+form { margin: 20px; }
+input { margin: 5px; padding: 5px; }
+button { padding: 10px; background: navy; color: white; border: none; }
